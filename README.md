@@ -41,8 +41,7 @@ Ensure you have Python 3.6+ installed on your system. Additionally, you will nee
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/harshit64830/Handwritten-Character-Recognition.git
-    cd Handwritten-Character-Recognition
+    git clone https://github.com/harshit64830/Handwritten_Character_Recognition
     ```
 
 2. Install the required libraries:
