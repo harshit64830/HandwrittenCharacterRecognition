@@ -2,18 +2,6 @@
 
 This project is designed to recognize handwritten characters using machine learning techniques. The code is implemented in Python and utilizes various libraries for data preprocessing, model training, and evaluation.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Architecture](#model-architecture)
-- [Dataset](#dataset)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 Handwritten Character Recognition is a system that uses machine learning algorithms to identify and classify handwritten characters. This project demonstrates a simple yet effective approach to recognizing handwritten characters using Convolutional Neural Networks (CNN).
